@@ -47,3 +47,4 @@ unzip -q rawdata.zip
 ###########################################
 
 echo "Project setup is complete!"
+mkdir data
